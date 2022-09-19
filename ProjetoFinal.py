@@ -3,10 +3,10 @@ ProjetoFinal
 Descrição: programa para extrair um arquivo csv da Web (Portal de Dados Abertos do TCE-RS)
 Autor: Luiz Kruel
 Data: 19/09/2022
-Versão: 0.0.5
+Versão: 0.0.1
 """
 
-# importando pacotes
+# importa pacotes
 
 import requests
 import pandas as pd
